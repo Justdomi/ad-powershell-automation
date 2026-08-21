@@ -1,0 +1,5 @@
+logs/
+reports/
+*.log
+*.csv.bak
+credentials.xml
